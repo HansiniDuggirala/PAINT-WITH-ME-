@@ -1,0 +1,20 @@
+h1 {
+    color : darkolivegreen ;
+    font-size: 40px;
+}
+
+.body_backgorund {
+    background-image: url("https://media.istockphoto.com/photos/paint-brush-gouache-colored-pencils-and-felttip-pens-lie-on-a-wooden-picture-id1329558801");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 30px;
+    background-color: floralwhite;
+    border-style: ridge;
+}
+
+span {
+    font-size: 30px;
+}
